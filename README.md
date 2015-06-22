@@ -1,3 +1,5 @@
+#  FORKED WHILE V2.0 IS STILL IN DEVELOPMENT BECAUSE WE WANT V2.0 FEATURES, BUT NEED TO PROTECT OUR PRODUCTION CODE FROM CHANGES ON MASTER BRANCH.
+
 # PublicActivity
 ## [![Gittip](http://img.shields.io/gittip/pokonski.svg)](https://www.gittip.com/pokonski/) [![Build Status](http://img.shields.io/travis/pokonski/public_activity/master.svg)](http://travis-ci.org/pokonski/public_activity) [![Coverage Status](http://img.shields.io/coveralls/pokonski/public_activity.svg)](https://coveralls.io/r/pokonski/public_activity) [![Code Climate](http://img.shields.io/codeclimate/github/pokonski/public_activity.svg)](https://codeclimate.com/github/pokonski/public_activity) [![Gem Version](http://img.shields.io/gem/v/public_activity.svg)](http://badge.fury.io/rb/public_activity) [![Inline docs](http://inch-pages.github.io/github/pokonski/public_activity.png)](http://inch-pages.github.io/github/pokonski/public_activity)
 
